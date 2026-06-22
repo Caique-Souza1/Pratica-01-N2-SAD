@@ -2,21 +2,46 @@
 
 ## Sistemas de Apoio à Decisão
 
-## Dupla: 
+## Dupla:
 
 **Caique de Souza Oliveira, Nicolas Pereira Dias**
 
-### Dataset utilizado
+---
 
-**E-Commerce Sales & Profit Analysis Dataset**
+## Dataset utilizado
+
+**E-Commerce Sales & Profit Analysis Dataset**  
+https://www.kaggle.com/datasets/nalisha/e-commerce-sales-and-profit-analysis-dataset
 
 ---
+
+# ▶️ Como executar o projeto
+
+## 1. Instalação das dependências
+
+pip install -r requirements.txt
+
+---
+
+## ▶️ 2. Execução do Streamlit
+
+streamlit run app.py
+
+---
+
+## 🌐 3. Acesso no navegador
+
+http://localhost:8501
+
+---
+
+## RESPOSTAS DAS QUESTÕES:
 
 ## 1. Escolha e contexto da base
 
 ### 1. Qual dataset foi escolhido?
 
-Foi utilizado o dataset **E-Commerce Sales & Profit Analysis Dataset**, disponibilizado na plataforma Kaggle(Link: https://www.kaggle.com/datasets/nalisha/e-commerce-sales-and-profit-analysis-dataset).
+Foi utilizado o dataset **E-Commerce Sales & Profit Analysis Dataset**, disponibilizado na plataforma Kaggle.
 
 ### 2. Qual é o contexto da base de dados?
 
